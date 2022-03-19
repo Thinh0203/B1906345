@@ -6,7 +6,6 @@ Ngành học: Hệ Thống Thông Tin 01(DI1995A1)
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Website Bán Hoa</title>
 	<meta charset="utf-8">
 </head>
 <body>
